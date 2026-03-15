@@ -82,7 +82,7 @@ az account set --subscription <subscription-id>
 
 ## 3 Azure Marketplace Image Accepted
 
-The VMware SD-WAN image must be accepted in the Azure marketplace.
+The Arista Velocloud SD-WAN image must be accepted in the Azure marketplace.
 
 ```bash
 az vm image terms accept \
